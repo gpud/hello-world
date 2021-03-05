@@ -1,2 +1,2 @@
 # hello-world
-using github to store collaborative projects using branches for prototyping versions before comitting project developments to the definitive main repository
+using GitHub to store collaborative projects using branches for prototyping versions before committing project developments to the definitive main repository
